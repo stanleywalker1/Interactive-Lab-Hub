@@ -124,6 +124,10 @@ Now, hange the goal within the same setting, and update the interaction with the
 \*\***Show the follow-up work here.**\*\*
 
 
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/47a04535-7ff3-40a8-bb9c-34edb81a206d
+
+
+
 ## Part E. Costume the device
 
 Only now should you start worrying about what the device should look like. Develop three costumes so that you can use your phone as this device.
@@ -133,6 +137,7 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Include sketches of what your devices might look like here.**\*\*
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+![IMG_6416](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/f4293da3-596d-40ba-807a-815efe6905c9)
 
 ![Page 1 (1)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/7e648196-e85a-4981-a377-53bf050f2235)
 
@@ -144,6 +149,15 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4764ecc4-bb92-45b4-a87b-20c9ec0feede
+
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/5c1840ff-5d66-4a39-8b39-469186a114cf
+
+![fish-bowl-image](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/1440e8b9-720d-4d03-a5fd-76a965315b2e)
 
 
 
