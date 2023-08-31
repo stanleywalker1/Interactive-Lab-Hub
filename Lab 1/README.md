@@ -137,9 +137,11 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Include sketches of what your devices might look like here.**\*\*
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
-![IMG_6416](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/f4293da3-596d-40ba-807a-815efe6905c9)
+
 
 ![Page 1 (1)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/7e648196-e85a-4981-a377-53bf050f2235)
+
+![IMG_6416](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b328b7fe-e5f9-4307-8786-46e5bb0fe6a4)
 
 ## Part F. Record
 
