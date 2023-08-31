@@ -98,7 +98,16 @@ https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b3bb119f-f
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+- I borrowed a mason jar (sadly I can’t use it permanently) and I felt it successfully reflected the colors across the water.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
+- I would like to further experiment with light effects, diluting the water with some form of powder, maybe adding flakes or some alternative objects in the water. Also incorporating subtle vibration effects to the cellphone itself to effect the water could have an interesting effect
+
+
+
+    
+   
 
 
 ## Part C. Prototype the device
