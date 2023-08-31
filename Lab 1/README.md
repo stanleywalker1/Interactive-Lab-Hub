@@ -174,6 +174,26 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+Hauke:
+thinking about interactions 
+ambient light use cases
+explore more in the storyboards
+shared aquarium
+updating the buttons for the user - interacting with the user
+shaking the device 
+- quicker
+- more fish
+
+Amando Cong Xu:
+For feedback, I think the initial storyboard wasn't super clear but after looking at the prototype it became much more clear
+
+Thomas:
+Thinking about modifcations to the buttons
+Ways to invite the user
+Improve clarity with storyboards 
+Adding to big buttons to spawn fish 
+Abstract interaction
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
