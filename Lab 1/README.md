@@ -211,3 +211,8 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+![snowglobe (2)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/cc2ebcdb-1f0e-45f1-bb2d-0730ba10de1a)
+
+
+
+
