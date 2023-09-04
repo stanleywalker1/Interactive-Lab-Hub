@@ -207,7 +207,7 @@ Do last week’s assignment again, but this time:
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 ![snowglobe (2)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/cc2ebcdb-1f0e-45f1-bb2d-0730ba10de1a)
 
-My goal was to give this space life. Granted artificial life, but nonetheless the appearance and comfort of life. I considered the interaction provided by tinkerbelle, and saw potential to introduce a sort of animation/spark over the existing color screen to explore this goal. 
+My goal was to enable the essence of life. Granted artificial life, but nonetheless the appearance and comfort of life. I considered the interaction provided by tinkerbelle, and saw potential to introduce a sort of animation/spark over the existing color screen to explore this goal. 
 
 I introduced a gooey object that could be spawned by the user and "swim" around the tank. My greatest challenging was not the objects themselves, but communicating them over the server for all clients, and synced features to add and remove them from the screen. This took a majority of my time to debug within tinkerbelle, but with enough console.logs() and patches, it currently works at intended. Server-side programming is a skill I haven’t practiced much so this presented itself as a healthy challenge for me. 
 
