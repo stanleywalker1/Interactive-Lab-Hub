@@ -92,7 +92,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 
 
-https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b3bb119f-f6c2-4ffe-a2f5-83d4ab690926
+
 
 
 
@@ -133,7 +133,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 \*\***Show the follow-up work here.**\*\*
 
 
-https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/47a04535-7ff3-40a8-bb9c-34edb81a206d
+
 
 
 
@@ -162,7 +162,7 @@ Think about the setting of the device: is the environment a place where the devi
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 
-
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b3bb119f-f6c2-4ffe-a2f5-83d4ab690926
 
 
 
@@ -206,6 +206,8 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 ![snowglobe (2)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/cc2ebcdb-1f0e-45f1-bb2d-0730ba10de1a)
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/47a04535-7ff3-40a8-bb9c-34edb81a206d
 
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4764ecc4-bb92-45b4-a87b-20c9ec0feede
 
