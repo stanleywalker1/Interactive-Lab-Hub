@@ -128,10 +128,12 @@ https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b3bb119f-f
 
 
 Light refracting through plastic
+
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/c918fcad-6e9a-47ab-986c-50f90bc7b627
 
 
 Light refracting through thim layer of touchable water, interacting directly with the colors
+
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/29708ed2-88f5-4798-8237-7a212e67c3ba
 
 
