@@ -122,14 +122,16 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
+Light refracting through a mason jar (do not own the jar, just borrowing for ideation)
+
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b3bb119f-f6c2-4ffe-a2f5-83d4ab690926
 
 
-
+Light refracting through plastic
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/c918fcad-6e9a-47ab-986c-50f90bc7b627
 
 
-
+Light refracting through thim layer of touchable water, interacting directly with the colors
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/29708ed2-88f5-4798-8237-7a212e67c3ba
 
 
@@ -143,9 +145,6 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
-
-
-
 
 
 
