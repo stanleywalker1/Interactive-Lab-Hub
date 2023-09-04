@@ -122,6 +122,18 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b3bb119f-f6c2-4ffe-a2f5-83d4ab690926
+
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/c918fcad-6e9a-47ab-986c-50f90bc7b627
+
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/29708ed2-88f5-4798-8237-7a212e67c3ba
+
+
+
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -160,7 +172,11 @@ Think about the setting of the device: is the environment a place where the devi
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 
-https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b3bb119f-f6c2-4ffe-a2f5-83d4ab690926
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/59965a4a-9161-4d37-8567-a951072a08f0
+
+
 
 
 
