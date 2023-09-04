@@ -162,13 +162,7 @@ Think about the setting of the device: is the environment a place where the devi
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 
-https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4764ecc4-bb92-45b4-a87b-20c9ec0feede
 
-
-
-https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/5c1840ff-5d66-4a39-8b39-469186a114cf
-
-![fish-bowl-image](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/1440e8b9-720d-4d03-a5fd-76a965315b2e)
 
 
 
@@ -213,6 +207,12 @@ Do last week’s assignment again, but this time:
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 ![snowglobe (2)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/cc2ebcdb-1f0e-45f1-bb2d-0730ba10de1a)
 
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4764ecc4-bb92-45b4-a87b-20c9ec0feede
 
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/5c1840ff-5d66-4a39-8b39-469186a114cf
+
+![fish-bowl-image](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/1440e8b9-720d-4d03-a5fd-76a965315b2e)
 
 
