@@ -2,7 +2,7 @@
 
 # Staging Interaction
 
-stanley
+stanley, Thomas Wallace
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -220,6 +220,39 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+WITH STORYBOARDS
+
+Good Posture T-shirt: A wearable t-shirt that monitors the user's posture. Depending on the alignment of the user's spine, the shirt changes color from green (good posture) to red (poor posture). If posture is inadequate, the shirt vibrates as a reminder.
+
+<img width="948" alt="265134755-7b62e177-7240-4cca-a35d-c61f306572b5" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/c530a4a1-ee3c-47b6-8bc3-577df8fb6653">
+
+Interactive Doorbell: A doorbell that changes its chime based on who's visiting. Using facial recognition, it plays a unique tune for family members, another for friends, and a standard chime for unknown visitors. The light on the doorbell also changes color accordingly.
+<img width="948" alt="265134755-7b62e177-7240-4cca-a35d-c61f306572b5" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/e313b03b-9a54-4131-92ff-29f7315d0857">
+
+-Interactive Bookmark: A bookmark that vibrates when it's time to take a reading break. It also has a light indicator: green when you're ahead of your reading goal, yellow when you're on track, and red if you're falling behind.
+
+<img width="1020" alt="265290470-d80fa81d-da53-4a70-b06b-6064c51f0250" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/eee4db3c-dad9-46da-b7b6-aada0fa2645a">
+
+
+Feedback-giving Hairbrush: A hairbrush that senses hair health. If it detects dryness or damage, it lights up in specific colors or vibrates, prompting the user to take care of their hair.
+<img width="678" alt="265289264-a4ee0880-5983-475d-8eb6-951aee1a2cd0" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/d6205d82-c89e-4ec7-b44d-e762b1445567">
+
+Interactive Yoga Mat: A mat that uses lights and vibrations to guide yoga postures. If the user's alignment is off, the mat vibrates in the specific quadrant where adjustment is needed. It can also light up in sequences to guide a yoga flow.
+
+<img width="1058" alt="265291351-137f2d01-72d7-4c95-afc8-26008ff6d3e0" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/943e22ee-ff55-4f82-b88e-f468b8845f8b">
+
+Water Quality Buoy: A buoy placed in swimming areas to gauge water cleanliness. Depending on the water's purity, the buoy changes color. If the water is deemed too polluted, the buoy sounds an alarm.
+
+<img width="1048" alt="265289459-6dc04a6c-0b2d-43d7-b0cb-b880f0522f2c" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4bdeb9a0-93e4-4be1-8f6d-d471e4fd25ad">
+
+Mindful Eating Dinner Plate: A dinner plate that responds to the pace of eating. If the user eats too quickly, the plate vibrates to signal slowing down. The plate also changes color to indicate the recommended cadence of eating.
+
+<img width="739" alt="265134067-93189f6c-a275-496d-b320-d378793f6fea" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/f8f9334d-7b80-431c-bca8-3ee976072043">
+
+**Liquid Automata**
+git repo: [https://github.com/stanleywalker1/digital_phone_fishbowl](url)
+
 ![snowglobe (2)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/cc2ebcdb-1f0e-45f1-bb2d-0730ba10de1a)
 
 My goal was to enable the essence of life. Granted artificial life, but nonetheless the appearance and comfort of life. I considered the interaction provided by tinkerbelle, and saw potential to introduce a sort of animation/spark over the existing color screen to explore this goal. 
