@@ -250,7 +250,10 @@ Mindful Eating Dinner Plate: A dinner plate that responds to the pace of eating.
 
 <img width="739" alt="265134067-93189f6c-a275-496d-b320-d378793f6fea" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/f8f9334d-7b80-431c-bca8-3ee976072043">
 
-**Liquid Automata**
+
+
+## Liquid Automata
+
 git repo: [https://github.com/stanleywalker1/digital_phone_fishbowl](url)
 
 ![snowglobe (2)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/cc2ebcdb-1f0e-45f1-bb2d-0730ba10de1a)
