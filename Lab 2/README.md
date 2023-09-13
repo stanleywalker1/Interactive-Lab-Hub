@@ -218,6 +218,24 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+When beginning this assignment, I wanted to explore mapping the current real-time values into an object. With the limitation of the screen size, I sketched some simple minimalistic designs that showcase a progress bar for the seconds in the minute, minute in the hour, and hour in the day.
+
+
+
+![Page 1 (2)](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/b66f6b8b-65a4-466a-abbb-e0eea431496f)
+
+This provided some insight into how I could style certain primitive shapes and how they rendered on the screen. The initial aesthetic didn’t appeal to me, and it seemed a bit bland like a loading bar.  I adjusted the font, color pallet, object sizes, but still seemed a bit too mechanical. 
+
+![IMG_6615 2](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/468f25c9-7249-4b56-ab85-e1dd1ed866bb)
+![IMG_6617 2](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/8053fc1c-a596-4fc6-a0cf-56ae3f67f16d)
+
+<img width="406" alt="shapes (2)" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/1be62d13-0acc-46c9-8908-121d5a9bad6e">
+
+Then I rotated the pie itself vertically, and noticed as the second/min bar loaded, it made me picture an elevator scaling the side of a building. From here on, I pivoted to this idea as a way to represent time through the life of a city skyline, something we can relate to by simply looking off the island towards Manhattan. With the skyline in the early mornings reflecting a growing flicker, ecstatic light movement by noon, and a gradual calmness by midnight. 
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/398f43fe-0569-4748-a19e-3c05daf2b45d
+
 
 # Prep for Part 2
 
