@@ -278,6 +278,9 @@ I felt that the aesthetic needed some adjustment, and considered how I wanted th
 
 ![IMG_6715](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/fb6b98ee-3bbb-4513-b477-6a57ae024104)
 
-https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/0cd1fbee-6bad-41f9-8a69-523c0bc5931e
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/f0f9b6a3-34a7-4ad4-915c-6ca999d8d62c
+
 
 
