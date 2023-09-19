@@ -215,9 +215,6 @@ After that, Git will ask you to login to your GitHub account to push the updates
 
 \*\*\***Take a video of your PiClock.**\*\*\*
 
-## Part G. 
-## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
-
 When beginning this assignment, I wanted to explore mapping the current real-time values into an object. With the limitation of the screen size, I sketched some simple minimalistic designs that showcase a progress bar for the seconds in the minute, minute in the hour, and hour in the day.
 
 
@@ -229,9 +226,14 @@ This provided some insight into how I could style certain primitive shapes and h
 ![IMG_6615 2](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/468f25c9-7249-4b56-ab85-e1dd1ed866bb)
 ![IMG_6617 2](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/8053fc1c-a596-4fc6-a0cf-56ae3f67f16d)
 
+## Part G. 
+## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+
+
+
 <img width="406" alt="shapes (2)" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/1be62d13-0acc-46c9-8908-121d5a9bad6e">
 
-Then I rotated the pie itself vertically, and noticed as the second/min bar loaded, it made me picture an elevator scaling the side of a building. From here on, I pivoted to this idea as a way to represent time through the life of a city skyline, something we can relate to by simply looking off the island towards Manhattan. With the skyline in the early mornings reflecting a growing flicker, ecstatic light movement by noon, and a gradual calmness by midnight. 
+At some point I rotated the pie itself vertically, and noticed as the second/min bar loaded, it made me picture an elevator scaling the side of a building. From here on, I pivoted to this idea as a way to represent time through the life of a city skyline, something we can relate to by simply looking off the island towards Manhattan. With the skyline in the early mornings reflecting a growing flicker, ecstatic light movement by noon, and a gradual calmness by midnight. 
 
 
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/398f43fe-0569-4748-a19e-3c05daf2b45d
@@ -253,5 +255,29 @@ Modify the code from last week's lab to make a new visual interface for your new
 As always, make sure you document contributions and ideas from others explicitly in your writeup.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
+
+
+# tree of time
+
+I aimed to reflect time through a tree - a living object that people tend to comment about in their daily suburban life in reference to change over time i.e. “wow that tree out front has grown so much this year”. 
+
+Given what I know about programming, I figured no better way to design a tree than with a factorial. This essentially causes a loop of reoccurring splits after a certain “growth” length is reached in a line.
+![IMG_6721](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/e5704519-ac47-4778-a975-85115babadd8)
+
+It took a while to pinpoint the angle variables and # of recursions needed to display a tree that properly fit in the display. I struggled with finding the sweet spot, with most the factorials appearing too clustered. 
+
+Once I was happy with the tree, I implemented a new image layer and modified the tree itself to display transparently. On this new layer, I added 3 growing color sections mapped to sec - min, min - hour, and hour - day. 
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/965c3df6-1d6b-4efe-9d82-e49baa52d9ff
+
+These color sections grew in height according to the current time. I layered them in a way to make the tree appear as if it was growing as the water (represented seconds with blue) was emerging from the group upward. 
+
+
+
+I felt that the aesthetic needed some adjustment, and considered how I wanted the tree to look as the day comes to an end. With this in mind, I adjusted the section that represented seconds to appear much smaller and come in waves, with the min/hour hour/day sections displays naturally growing according to the time. As I look at the tree now (current time 10:34pm), the time-mapped colors make it genuinely resemble a healthy full-grown tree, indicating the day is coming to an end. 
+
+![IMG_6715](https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/fb6b98ee-3bbb-4513-b477-6a57ae024104)
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/0cd1fbee-6bad-41f9-8a69-523c0bc5931e
 
 
