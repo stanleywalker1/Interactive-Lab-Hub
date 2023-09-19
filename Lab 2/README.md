@@ -270,7 +270,7 @@ Once I was happy with the tree, I implemented a new image layer and modified the
 
 https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/965c3df6-1d6b-4efe-9d82-e49baa52d9ff
 
-These color sections grew in height according to the current time. I layered them in a way to make the tree appear as if it was growing as the water (represented seconds with blue) was emerging from the group upward. 
+These color sections grew in height according to the current time. I layered them in a way to make the tree appear as if it was growing as the water (represented seconds with blue) was emerging from the ground upward. 
 
 
 
