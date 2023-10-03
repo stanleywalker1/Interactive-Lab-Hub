@@ -9,15 +9,15 @@ For this demo, you will need:
 * a keypad
 * a web camera
 
+Plug the display in and connect the keypad to the port underneath with your Qwiic connector cable. Plug the web camera into the raspberry pi. 
 
+## Software Setup
+
+Whats happening under the hood:
 * Receives input audio through the microphone
 * Transcribe (or translate if necessary) with Wishper API
 * Send it to OPENAI ChatGPT API
 * Use Google Text-to-Speech API to read ChatGPT response out loud
-
-Plug the display in and connect the keypad to the port underneath with your Qwiic connector cable. Plug the web camera into the raspberry pi. 
-
-## Software Setup
 
 Ssh on to your Raspberry Pi
 
