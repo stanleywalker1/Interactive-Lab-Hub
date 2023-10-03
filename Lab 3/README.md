@@ -69,6 +69,8 @@ You can also play audio files directly with `aplay filename`. Try typing `aplay 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
 (This shell file should be saved to your own repo for this lab.)
 
+The file name for this is: thomas_and_stanley_greeting_pi.sh
+
 ---
 Bonus:
 [Piper](https://github.com/rhasspy/piper) is another fast neural based text to speech package for raspberry pi which can be installed easily through python with:
@@ -110,7 +112,7 @@ python test_microphone.py -m en
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
 
-
+The file name for this is: phone_number_ask.sh
 ### Serving Pages
 
 In Lab 1, we served a webpage with flask. In this lab, you may find it useful to serve a webpage for the controller on a remote device. Here is a simple example of a webserver.
@@ -135,13 +137,34 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
-Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
+We began thinking about text-to-speech and then speech-to-text. In the speech-to-text we thought of a smart assistant that looks at how you are speaking and gives you feedback/cues on where you are putting emphasis, for example, if you talked loudly it could bold the letters, or change the font size or put in a word cloud where the loudest or highest pitch is the biggest. Another example we thought of was a strange talking animal, where it could act like a kids toy and offer funness to kids! Finally we thought about a scream-o-meter, which could be used in sports games, depending on how loud the crowd goes, how high the meter goes, another idea could be like one of those festival games called high striker (you hit and it rings a bell). For text-to-speech we thought about a Human-GPT, where you could ask it something and a human responds, maybe something completely irrelevant, or funny. Another idea we had here was to it be able to read a book or a script and it read you, maybe a bed time story. Finally we thought of a Target "That-was-easy button" here the idea would be that you would press it and it would say something fun!
+<img width="1395" alt="270742773-238505cf-ab95-4443-a785-7829c086023e" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/600cd410-67bf-4dde-b55f-274b1e87d772">
+
+We decided on the Target "That-was-easy button", here is our storyboard: 
+<img width="1052" alt="270754592-07bddade-572e-4dee-8253-127217300e02" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/745c2548-d028-486a-af1f-6b81ebcaff8f">
+
+but after class we realized it was too boring, so we pivoted to a world that you move/shake & speak to, while moving it will change how it speaks back to you, in the specific language of the country that is at its center at that time: 
+
+
+Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses.
 
 \*\***Please describe and document your process.**\*\*
 
+We imagine the world asking you if you speak the language of that specific country that is at its center. Once you move it will reask the question in that specific language. Once you respond yes, the world will begin to talk to you and asks you questions, or wait for you to converse.
+
+<img width="850" alt="Screen Shot 2023-10-02 at 11 11 54 PM" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/6d300018-3f4e-4ecf-9571-22172e8d153c">
+
 ### Acting out the dialogue
 
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/168ed3a6-10dc-4859-86f1-9e21a965d703
+
+
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
+
+
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/e9243eec-6f34-4741-b601-26fc27f91396
+
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
