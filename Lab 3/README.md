@@ -287,12 +287,13 @@ GPT: Goodbye, Stanley! Take care and have a wonderful day. Safe travels and hope
 ```
 
 ## Videos & Pictures
-![WhatsApp Image 2023-10-02 at 10 51 20 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/8d6f0401-bcbe-49e1-be07-8fa3648ded73)
-![WhatsApp Image 2023-10-02 at 10 51 10 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/94cc1ee4-92d8-4d40-9cb1-82d274568af4)
-![WhatsApp Image 2023-10-02 at 10 50 58 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/5e9f5e5f-3336-41a0-a4b2-a1373a1c5cc2)
-![WhatsApp Image 2023-10-02 at 10 50 50 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/2e481b09-3f5c-4b86-a453-f5300e199eaa)
-![WhatsApp Image 2023-10-02 at 7 32 48 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/98fdcd73-c23b-40f6-91a3-c8c23f115d87)
 
+
+![WhatsApp Image 2023-10-02 at 10 50 58 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/5e9f5e5f-3336-41a0-a4b2-a1373a1c5cc2)
+![WhatsApp Image 2023-10-02 at 10 51 10 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/94cc1ee4-92d8-4d40-9cb1-82d274568af4)
+![WhatsApp Image 2023-10-02 at 10 51 20 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/8d6f0401-bcbe-49e1-be07-8fa3648ded73)
+![WhatsApp Image 2023-10-02 at 7 32 48 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/98fdcd73-c23b-40f6-91a3-c8c23f115d87)
+![WhatsApp Image 2023-10-02 at 10 50 50 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/2e481b09-3f5c-4b86-a453-f5300e199eaa)
 
 https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/06b3d909-4275-45b8-b58f-5278777ddbbf
 
