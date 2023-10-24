@@ -458,6 +458,9 @@ We included a space for the cables to go out and have some space so that they wo
 Here are some videos of it working:
 
 
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4bdc4c8c-bf79-4ee1-8f5e-639947c7a38c
+
+
 https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/c08520e2-799b-4e41-9e99-b69404dd9903
 
 
