@@ -1,1 +1,1 @@
-OPENAI_KEY = ""
+OPENAI_KEY = "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"
