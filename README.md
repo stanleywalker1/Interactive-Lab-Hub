@@ -257,30 +257,30 @@ We were fortunate that one of our team members had an abundance of credits from 
 
 We spent time experimenting with prompts to create engaging and exciting results. We came up with the 6 following styles, each with its own unique theme and detailed prompt. The idea behind the themes is to truly capture people's curiosity, as they don't resemble anything you normally see listed on style filters and make you wonder. 
 
-**Digital Deco**
+**Digital Deco:**
 A modern take on Art Deco, utilizing geometric shapes, bold outlines, and a palette of digital neon against dark, elegant backdrops
 ```
 Prompt: digital Deco flair style, combining bold Art Deco geometry with a neon color scheme against dark, elegant settings.
 ```
 
-**Mythical Realism**
+**Mythical Realism:**
 A style that merges the mythical creatures and deities from various cultures with realistic urban settings, creating a world where fantasy and modern life intertwine
 ```
 Prompt: mythical realism style, interweaving lifelike mythical beings into modern urban landscapes.
 ```
 
-**Tokyo Twilight**
+**Tokyo Twilight:**
 This style would incorporate elements of Japanese cyberpunk aesthetics, with neon-lit cityscapes, holographic signage, and a mix of traditional Japanese motifs with futuristic urban elements.
 ```
 Prompt: Neo-Tokyo Twilight style, marrying neon vibrancy with Japanese motifs amidst a reflective, rain-soaked cityscape.
 ```
-**Eco Zen **
+**Eco Zen:**
 Tranquility and simplicity of natural landscapes, featuring minimalist design elements that mimic the flow of water, the tranquility of gardens, and the organic forms of plant life.
 ```
 Prompt: Eco Zen aesthetic, highlighting natural simplicity with elements that evoke water flow and with a color palette derived from natural earth tones and soft greens, blues, and browns
 ```
 
-**Aquatic Haven**
+**Aquatic Haven:**
 A style that brings an underwater world to the surface. It features flowing designs and a palette of oceanic blues and greens, accented with the shimmer of sea life. 
 ```
 Prompt: scattered light and aquatic wave aesthetic, with undulating designs and a marine color palette that brings the tranquility of the ocean to everyday spaces, reflective quality akin to water
