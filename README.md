@@ -1,38 +1,3 @@
-# Stanley Walker's-Lab-Hub
-for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/)
-
-Please place links here to the README.md's for each of your labs here:
-
-[Lab 1. Staging Interaction](Lab%201/)
-
-[Lab 2. Interactive Prototyping: The Clock of Pi](Lab%202/)
-
-[Lab 3. Chatterboxes](Lab%203/)
-
-[Lab 4. Ph-UI!!!](Lab%204/)
-
-[Lab 5. Observant Systems](Lab%205)
-
-Lab 6. Little Interactions Everywhere
-
-[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
-
-[Online Repository](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------
-
-
-Pasting Lab 5 README below (do not have access to Pi so cannot push normally)
-
-
-
----------------------------------------------------------------------------------------------------------------------------
-
-
-
 # Observant Systems
 
 **Thomas Wallace & Stanley Walker & Chanan Suksangium**
@@ -297,6 +262,40 @@ Regarding hardware, in this iteration of our project, we constructed a prototype
 
 ##### Software:
 On the software side, the current setup requires running the script within a VNC environment. While this is functional, it's not the most user-friendly or accessible method. Our goal for the next phase is to create a more polished output system. Ideally, this would involve developing a simple web application that would allow users to view the captured images in higher quality on their personal devices such as phones or computers. Another exciting enhancement would be integrating a mobile screen into the 3D-printed casing, providing immediate and convenient viewing directly on the device. This would significantly improve the user experience by making it easier to interact with and enjoy the functionality of our project.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Pasting Lab 5 README below (do not have access to Pi so cannot push normally)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+# Stanley Walker's-Lab-Hub
+for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/)
+
+Please place links here to the README.md's for each of your labs here:
+
+[Lab 1. Staging Interaction](Lab%201/)
+
+[Lab 2. Interactive Prototyping: The Clock of Pi](Lab%202/)
+
+[Lab 3. Chatterboxes](Lab%203/)
+
+[Lab 4. Ph-UI!!!](Lab%204/)
+
+Lab 5. Observant Systems
+
+Lab 6. Little Interactions Everywhere
+
+[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
+
+[Online Repository](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
+
 
 
 
