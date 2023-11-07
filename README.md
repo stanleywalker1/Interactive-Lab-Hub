@@ -226,19 +226,18 @@ To a user, X should feel like a smart camera assistant that not only captures th
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
-Video above
+Video inserted above
 
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
-**\*\*\*Include a short video demonstrating the finished result.\*\*\***
-
-#### Our final project code is in: 
 
 
 #### Finished Result Video:
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4e066b58-6802-41d2-9c95-3e420e1d65ed
 
+#### Our final project code is in: (will insert once I reach my pi tommorow)
 
 
 
@@ -254,8 +253,49 @@ Our initial prototype functioned with a single gesture. Due to challenges with g
 ##### Speed and AI Model Efficiency:
 We were fortunate that one of our team members had an abundance of credits from a previous hackathon. The initial AI model we employed was costly, charging 17 cents per usage, which became prohibitive during debugging phases. With the available credits, we opted for a more efficient and faster model, greatly benefiting our project without the constraint of additional cost.
 
+#### Prompt Engineering 
+
+We spent time experimenting with prompts to create engaging and exciting results. We came up with the 6 following styles, each with its own unique theme and detailed prompt. The idea behind the themes is to truly capture people's curiosity, as they don't resemble anything you normally see listed on style filters and make you wonder. 
+
+**Digital Deco**
+A modern take on Art Deco, utilizing geometric shapes, bold outlines, and a palette of digital neon against dark, elegant backdrops
+
+Prompt: digital Deco flair style, combining bold Art Deco geometry with a neon color scheme against dark, elegant settings.
+
+**Mythical Realism**
+A style that merges the mythical creatures and deities from various cultures with realistic urban settings, creating a world where fantasy and modern life intertwine
+
+Prompt: mythical realism style, interweaving lifelike mythical beings into modern urban landscapes.
+
+**Tokyo Twilight**
+This style would incorporate elements of Japanese cyberpunk aesthetics, with neon-lit cityscapes, holographic signage, and a mix of traditional Japanese motifs with futuristic urban elements.
+
+Prompt: Neo-Tokyo Twilight style, marrying neon vibrancy with Japanese motifs amidst a reflective, rain-soaked cityscape.
+
+**Eco Zen **
+Tranquility and simplicity of natural landscapes, featuring minimalist design elements that mimic the flow of water, the tranquility of gardens, and the organic forms of plant life.
+
+Prompt: Eco Zen aesthetic, highlighting natural simplicity with elements that evoke water flow and with a color palette derived from natural earth tones and soft greens, blues, and browns
+
+**Aquatic Haven**
+A style that brings an underwater world to the surface. It features flowing designs and a palette of oceanic blues and greens, accented with the shimmer of sea life. 
+
+Prompt: scattered light and aquatic wave aesthetic, with undulating designs and a marine color palette that brings the tranquility of the ocean to everyday spaces, reflective quality akin to water
+
+
 
 #### Improvements for the future:
+
+##### Product Design
+We iterated product design using figma for demonstration purposes which we found helpful to visualize the experience. Naturally, going forward we do not intend for this to be the medium of interaction as we aim to have a single physical design to 3D print that resembles our figma design with an incorporated camera as well. 
+
+Our product focused on the generated content, rather then the product itself, leading to a prioritization of minimalist and simple design. We found this knob as a great starting point:
+
+<img width="622" alt="Screen Shot 2023-11-06 at 8 41 10 PM" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/7e457b86-2a4c-47fa-a018-2004a1e5bfb3">
+
+An alternative design but a bit less intuitive how to select the applied style:
+
+<img width="623" alt="Screen Shot 2023-11-06 at 8 39 25 PM" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/f7c563b8-ae6e-4da1-b67c-41a7243990b2">
 
 ##### Hardware:
 Regarding hardware, in this iteration of our project, we constructed a prototype using cardboard for the structure and utilized the camera that was provided to us. This approach was practical for the development and testing phases, allowing us to focus on functionality without the need for complex hardware setups. Nevertheless, as we consider the future of this project, we aim to refine the design. Transitioning to a 3D-printed casing would not only improve the durability and aesthetic of our device but also provide a more professional and sleek look. Additionally, we would explore options for upgrading the camera to enhance image quality and add features that might benefit from higher resolution and better sensor capabilities.
@@ -267,7 +307,7 @@ On the software side, the current setup requires running the script within a VNC
 ---------------------------------------------------------------------------------------------------------------------------
 
 
-Pasting Lab 5 README below (do not have access to Pi so cannot push normally)
+Pasting Lab 5 README above as quick patch (do not have access to Pi so cannot push normally) ignore below
 
 
 
