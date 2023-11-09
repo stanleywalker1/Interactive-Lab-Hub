@@ -1,7 +1,6 @@
 # Observant Systems
 
-**NAMES OF COLLABORATORS HERE**
-
+**Thomas Wallace & Stanley Walker & Chanan Suksangium**
 
 For lab this week, we focus on creating interactive systems that can detect and respond to events or stimuli in the environment of the Pi, like the Boat Detector we mentioned in lecture. 
 Your **observant device** could, for example, count items, find objects, recognize an event or continuously monitor a room.
@@ -121,6 +120,17 @@ Next train your own model. Visit [TeachableMachines](https://teachablemachine.wi
 
 Include screenshots of your use of Teachable Machines, and write how you might use this to create your own classifier. Include what different affordances this method brings, compared to the OpenCV or MediaPipe options.
 
+
+
+https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/69100121-27e0-4c1d-9165-5d5ad2207e2c
+
+
+
+https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/d641f57b-f7b3-48da-a507-8d5488cea03e
+
+
+
+
 #### (Optional) Legacy audio and computer vision observation approaches
 In an earlier version of this class students experimented with observing through audio cues. Find the material here:
 [Audio_optional/audio.md](Audio_optional/audio.md). 
@@ -139,21 +149,60 @@ In an earlier version of this class students experimented with foundational comp
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
 
+All the code is in the file tml_example.py
+
+The interaction designed is a system that detects when a user is on screen. Once detected, the system captures a screen grab of the user. This screen grab is then processed by the Replicate API, which enhances the image based on a given prompt. To prevent excessive and immediate API calls, a counter mechanism has been introduced which waits for 5 detections before triggering the API call.
+
+This is a practical use case where a user might want to enhance their image for various purposes such as profile pictures, professional photos, or even just for fun. The counter ensures that the system doesn't make unnecessary API requests, thus optimizing costs and ensuring the user's image is stable and clear.
+
+![WhatsApp Image 2023-10-30 at 6 31 17 PM](https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/d2dc567e-3ca4-4c7e-b9a2-87008faa54cd)
+
+
+
+https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/8ac34aa6-eccb-457c-811b-40a8083a8467
+
+<img width="1504" alt="Screenshot 2023-10-30 at 18 58 41@2x" src="https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/006821c2-c43d-4ebc-92d8-5ef8fe66f198">
+
+
+
+https://github.com/twallacech95/Interactive-Lab-Hub/assets/11597920/a97c1be6-7935-4486-8ca1-2c056c7b7bd5
+
+
+
 ### Part C
 ### Test the interaction prototype
 
 Now flight test your interactive prototype and **note down your observations**:
 For example:
 1. When does it what it is supposed to do?
+The system successfully captures and enhances the image when the user is on screen and has been detected 5 consecutive times.
 1. When does it fail?
+It might fail if the user's face is not detected properly, or if there's an issue with the Replicate API, or perhaps if there's too much motion or blurriness in the captured image.
 1. When it fails, why does it fail?
+Failures can be attributed to:
+- Poor lighting conditions making face detection difficult.
+- Unstable internet connection causing API call failures.
+- The user moving too quickly, resulting in a blurred image.
+- API limitations or server issues.
 1. Based on the behavior you have seen, what other scenarios could cause problems?
+- Multiple faces in the frame might confuse the system.
+- Rapid changes in lighting or background.
+- If the user covers their face or turns away right when the system is about to make an API call.
+
+For next week we plan on using a better and quicker model for the AI image generation (more expensive, better hardware), we might also explore 'cold booting' the model so that it starts quicker. For the teachable machine image recognition section we aim to increase performance by training the model with different gestures/actions. We might also try MediaPipe that could give us a more precise prediction for hand gestures. Also, we would like to add some feedback to the user that the image is being taken, as well as some time so that they can prepare and pose!
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
+It's essential to provide feedback to the user about the system's status, e.g., "Detecting face..." or "Image captured, processing...". This way, they are aware of what's happening and can anticipate uncertainties.
 1. How bad would they be impacted by a miss classification?
+A misclassification might lead to an incorrect or unflattering image enhancement. While not detrimental, it might be frustrating or disappointing for the user.
 1. How could change your interactive system to address this?
+- Improve face detection by training on diverse datasets.
+- Allow users to provide feedback on the enhanced image, thus refining the model over time.
+- Implement error handling and give users the option to retry.
 1. Are there optimizations you can try to do on your sense-making algorithm.
+- Implement motion detection or other sensors to ensure clear image capture.
+- Introduce user preferences for image enhancement.
 
 ### Part D
 ### Characterize your own Observant system
@@ -161,17 +210,97 @@ For example:
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
 * What can you use X for?
+Enhancing images of users detected on screen.
 * What is a good environment for X?
+Well-lit environments with stable internet connections and users who are stationary or move minimally.
 * What is a bad environment for X?
+Low-light conditions, unstable internet, or environments with multiple moving objects or people.
 * When will X break?
+When faced with poor lighting, rapid movements, or API/server issues.
 * When it breaks how will X break?
+It may fail to detect the face, capture a blurred image, or not enhance the image correctly.
 * What are other properties/behaviors of X?
+X waits for 5 detections before making an API call, ensuring deliberate and clear image capture.
 * How does X feel?
+To a user, X should feel like a smart camera assistant that not only captures their image but also enhances it for them. With the right feedback mechanisms, it can feel intuitive and helpful.
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
+
+Video inserted above
 
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
-**\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
+
+#### Finished Result Video:
+https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/4e066b58-6802-41d2-9c95-3e420e1d65ed
+
+#### Our final project code is in: (will insert once I reach my pi tommorow)
+
+
+
+#### Development Process Documentation
+Several issues arose, as well as changes and enhancements that were made during our development process. The purpose of this section is to document these occurrences to assist future students or individuals who might encounter similar challenges or seek inspiration.
+
+##### Gesture Recognition:
+In our project, gesture recognition was a pivotal feature, acting as the camera's shutter mechanism. Initially, we utilized models from Teachable Machine, training several versions. Although all models functioned within the web UI, we observed a noticeable decline in accuracy when implementing them on the Raspberry Pi. This led to a high rate of false positives, prematurely triggering the camera's shutter. Consequently, we investigated alternative models and found MediaPipe to be substantially more precise, aligning with our goal of replacing a physical button press with a gesture to trigger the camera's shutter. However, MediaPipe's user interface featured an obtrusive and complex overlay, which we preferred not to transmit to the AI Image Processing API. To address this, we disabled the line containing the self.mpDraw.draw_landmarks function.
+
+##### Enhancing Fun:
+Our initial prototype functioned with a single gesture. Due to challenges with gesture recognition, we could not enhance the interaction further at that time. In our second iteration, with the improved accuracy of MediaPipe, we could build upon our original concept. MediaPipe enabled the recognition of various gestures, such as thumbs up, thumbs down, the victory sign, pointing finger, closed fist, and open palm. We developed a unique "AI filter" for each gesture, transforming the experience from taking a single type of photo to enabling six distinct kinds!
+
+##### Speed and AI Model Efficiency:
+We were fortunate that one of our team members had an abundance of credits from a previous hackathon. The initial AI model we employed was costly, charging 17 cents per usage, which became prohibitive during debugging phases. With the available credits, we opted for a more efficient and faster model, greatly benefiting our project without the constraint of additional cost.
+
+#### Prompt Engineering 
+
+We spent time experimenting with prompts to create engaging and exciting results. We came up with the 6 following styles, each with its own unique theme and detailed prompt. The idea behind the themes is to truly capture people's curiosity, as they don't resemble anything you normally see listed on style filters and make you wonder. 
+
+**Digital Deco:**
+A modern take on Art Deco, utilizing geometric shapes, bold outlines, and a palette of digital neon against dark, elegant backdrops
+```
+Prompt: digital Deco flair style, combining bold Art Deco geometry with a neon color scheme against dark, elegant settings.
+```
+
+**Mythical Realism:**
+A style that merges the mythical creatures and deities from various cultures with realistic urban settings, creating a world where fantasy and modern life intertwine
+```
+Prompt: mythical realism style, interweaving lifelike mythical beings into modern urban landscapes.
+```
+
+**Tokyo Twilight:**
+This style would incorporate elements of Japanese cyberpunk aesthetics, with neon-lit cityscapes, holographic signage, and a mix of traditional Japanese motifs with futuristic urban elements.
+```
+Prompt: Neo-Tokyo Twilight style, marrying neon vibrancy with Japanese motifs amidst a reflective, rain-soaked cityscape.
+```
+**Eco Zen:**
+Tranquility and simplicity of natural landscapes, featuring minimalist design elements that mimic the flow of water, the tranquility of gardens, and the organic forms of plant life.
+```
+Prompt: Eco Zen aesthetic, highlighting natural simplicity with elements that evoke water flow and with a color palette derived from natural earth tones and soft greens, blues, and browns
+```
+
+**Aquatic Haven:**
+A style that brings an underwater world to the surface. It features flowing designs and a palette of oceanic blues and greens, accented with the shimmer of sea life. 
+```
+Prompt: scattered light and aquatic wave aesthetic, with undulating designs and a marine color palette that brings the tranquility of the ocean to everyday spaces, reflective quality akin to water
+```
+
+#### Improvements for the future:
+
+##### Product Design
+We iterated product design using figma for demonstration purposes which we found helpful to visualize the experience. Naturally, going forward we do not intend for this to be the medium of interaction as we aim to have a single physical design to 3D print that resembles our figma design with an incorporated camera as well. 
+
+Our product focused on the generated content, rather then the product itself, leading to a prioritization of minimalist and simple design. We found the figma knob as a great starting point.
+
+<img width="622" alt="Screen Shot 2023-11-06 at 8 41 10 PM" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/7e457b86-2a4c-47fa-a018-2004a1e5bfb3">
+
+An alternative design but a bit less intuitive how to select the applied style:
+
+<img width="623" alt="Screen Shot 2023-11-06 at 8 39 25 PM" src="https://github.com/stanleywalker1/Interactive-Lab-Hub/assets/24898801/f7c563b8-ae6e-4da1-b67c-41a7243990b2">
+
+##### Hardware:
+Regarding hardware, in this iteration of our project, we constructed a prototype using cardboard for the structure and utilized the camera that was provided to us. This approach was practical for the development and testing phases, allowing us to focus on functionality without the need for complex hardware setups. Nevertheless, as we consider the future of this project, we aim to refine the design. Transitioning to a 3D-printed casing would not only improve the durability and aesthetic of our device but also provide a more professional and sleek look. Additionally, we would explore options for upgrading the camera to enhance image quality and add features that might benefit from higher resolution and better sensor capabilities.
+
+##### Software:
+On the software side, the current setup requires running the script within a VNC environment. While this is functional, it's not the most user-friendly or accessible method. Our goal for the next phase is to create a more polished output system. Ideally, this would involve developing a simple web application that would allow users to view the captured images in higher quality on their personal devices such as phones or computers. Another exciting enhancement would be integrating a mobile screen into the 3D-printed casing, providing immediate and convenient viewing directly on the device. This would significantly improve the user experience by making it easier to interact with and enjoy the functionality of our project.
