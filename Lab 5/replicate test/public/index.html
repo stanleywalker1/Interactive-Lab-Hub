@@ -1,0 +1,52 @@
+<!-- index.html  -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Webcam Capture</title>
+</head>
+<body>
+  <h1>Take a Photo and Upload</h1>
+  <video id="video" width="640" height="480" autoplay></video>
+  <button id="snap">Capture</button>
+  <canvas id="canvas" width="640" height="480" style="display:none;"></canvas>
+
+  <script>
+    // Get access to the camera
+    if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+      navigator.mediaDevices.getUserMedia({ video: true }).then(function(stream) {
+        const video = document.getElementById('video');
+        video.srcObject = stream;
+        video.play();
+      });
+    }
+  
+    // Trigger photo take
+    document.getElementById('snap').addEventListener('click', function() {
+      const canvas = document.getElementById('canvas');
+      const context = canvas.getContext('2d');
+      const video = document.getElementById('video');
+      context.drawImage(video, 0, 0, 640, 480);
+  
+      // Convert the canvas to a blob and send it to the server
+      canvas.toBlob(function(blob) {
+        const formData = new FormData();
+        formData.append('image', blob, 'image.jpg');
+  
+        fetch('/predict', {
+          method: 'POST',
+          body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+          console.log(data);
+          // Handle the response data here
+        })
+        .catch(error => {
+          console.error(error);
+        });
+      }, 'image/jpeg');
+    });
+  </script>  
+</body>
+</html>
